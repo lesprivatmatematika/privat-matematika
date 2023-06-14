@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Tangerang Selatan &#8211; Les Privat Matematika</title>
-	<atom:link href="/category/tangerang-selatan/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/tangerang-selatan/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 15 May 2023 08:27:49 +0000</lastBuildDate>

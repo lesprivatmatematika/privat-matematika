@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Koja &#8211; Les Privat Matematika</title>
-	<atom:link href="/category/koja/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/koja/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 14 Apr 2023 21:55:16 +0000</lastBuildDate>

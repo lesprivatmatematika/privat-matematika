@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Bogor &#8211; Les Privat Matematika</title>
-	<atom:link href="/category/bogor/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/bogor/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 29 Mar 2023 21:54:08 +0000</lastBuildDate>

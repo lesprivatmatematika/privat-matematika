@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Taman Sari &#8211; Les Privat Matematika</title>
-	<atom:link href="/category/taman-sari/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/taman-sari/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 21 Mar 2023 02:00:12 +0000</lastBuildDate>

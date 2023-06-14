@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Gading Serpong &#8211; Les Privat Matematika</title>
-	<atom:link href="/category/gading-serpong/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/gading-serpong/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 31 Mar 2023 19:29:36 +0000</lastBuildDate>

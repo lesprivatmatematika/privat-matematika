@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Kemang &#8211; Les Privat Matematika</title>
-	<atom:link href="/category/kemang/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/kemang/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 02 Apr 2023 20:45:20 +0000</lastBuildDate>

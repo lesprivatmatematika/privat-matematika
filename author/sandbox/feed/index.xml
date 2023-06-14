@@ -9,7 +9,7 @@
 
 <channel>
 	<title>sandbox &#8211; Les Privat Matematika</title>
-	<atom:link href="/author/sandbox/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/author/sandbox/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 13 Jun 2023 04:11:13 +0000</lastBuildDate>

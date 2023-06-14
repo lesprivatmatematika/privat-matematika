@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Menteng &#8211; Les Privat Matematika</title>
-	<atom:link href="/category/menteng/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/menteng/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 06 Mar 2023 17:10:54 +0000</lastBuildDate>

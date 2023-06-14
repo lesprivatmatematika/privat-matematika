@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Cipayung &#8211; Les Privat Matematika</title>
-	<atom:link href="/category/cipayung/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/cipayung/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 22 May 2023 17:54:39 +0000</lastBuildDate>

@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Cakung &#8211; Les Privat Matematika</title>
-	<atom:link href="/category/cakung/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/cakung/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 09 Apr 2023 02:39:42 +0000</lastBuildDate>

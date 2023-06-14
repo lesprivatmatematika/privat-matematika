@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Cipete &#8211; Les Privat Matematika</title>
-	<atom:link href="/category/cipete/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/cipete/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 27 Mar 2023 09:14:31 +0000</lastBuildDate>

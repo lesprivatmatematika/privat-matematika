@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Jatinegara &#8211; Les Privat Matematika</title>
-	<atom:link href="/category/jatinegara/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/jatinegara/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 15 May 2023 17:01:57 +0000</lastBuildDate>

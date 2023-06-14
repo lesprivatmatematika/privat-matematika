@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Grogol Petamburan &#8211; Les Privat Matematika</title>
-	<atom:link href="/category/grogol-petamburan/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/grogol-petamburan/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 14 May 2023 06:24:37 +0000</lastBuildDate>

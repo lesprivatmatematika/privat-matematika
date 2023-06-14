@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Setiabudi &#8211; Les Privat Matematika</title>
-	<atom:link href="/category/setiabudi/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/setiabudi/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 02 Mar 2023 18:44:17 +0000</lastBuildDate>

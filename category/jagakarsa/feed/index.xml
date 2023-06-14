@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Jagakarsa &#8211; Les Privat Matematika</title>
-	<atom:link href="/category/jagakarsa/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/jagakarsa/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sat, 22 Apr 2023 13:28:38 +0000</lastBuildDate>

@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Bangka &#8211; Les Privat Matematika</title>
-	<atom:link href="/category/bangka/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/bangka/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 19 Apr 2023 20:25:59 +0000</lastBuildDate>

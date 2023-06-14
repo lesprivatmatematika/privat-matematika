@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Palmerah &#8211; Les Privat Matematika</title>
-	<atom:link href="/category/palmerah/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/palmerah/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Tue, 02 May 2023 13:21:54 +0000</lastBuildDate>

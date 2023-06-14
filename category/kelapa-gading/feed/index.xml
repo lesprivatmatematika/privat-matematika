@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Kelapa Gading &#8211; Les Privat Matematika</title>
-	<atom:link href="/category/kelapa-gading/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/kelapa-gading/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 01 May 2023 15:05:43 +0000</lastBuildDate>

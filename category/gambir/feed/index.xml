@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Gambir &#8211; Les Privat Matematika</title>
-	<atom:link href="/category/gambir/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/gambir/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 22 Mar 2023 16:51:40 +0000</lastBuildDate>

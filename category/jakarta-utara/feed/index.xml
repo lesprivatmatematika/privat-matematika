@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Jakarta Utara &#8211; Les Privat Matematika</title>
-	<atom:link href="/category/jakarta-utara/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/jakarta-utara/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 04 May 2023 13:01:13 +0000</lastBuildDate>
